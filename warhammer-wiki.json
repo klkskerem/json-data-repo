@@ -1,198 +1,198 @@
 [
   {
-    "fraction" : "Kaos Cüceleri",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosDwarfsF.png",
-    "lords" : [
+    "fraction": "Kaos Cüceleri",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosDwarfsF.png",
+    "lords": [
       {
-        "name" : "Astragoth Demirel",
-	"image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/astragoth.png",
-        "loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kaos_bir.png"
+        "name": "Astragoth Demirel",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/astragoth.png",
+        "lore": ""
       },
       {
-        "name" : "Kül Drazhoath",
-	"image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/drazhoath.png",
-        "loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kaos_iki.png"
+        "name": "Kül Drazhoath",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/drazhoath.png",
+        "lore": ""
       },
       {
-        "name" : "Kara Zhatan",
-	"image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/zhatan.png",
-        "loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kaos_uc.png"
+        "name": "Kara Zhatan",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/zhatan.png",
+        "lore": ""
       }
     ]
   },
   {
-    "fraction" : "Kaos İblisleri",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosDemonsF.png",
-    "lords" : [
+    "fraction": "Kaos İblisleri",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosDemonsF.png",
+    "lords": [
       {
-        "name" : "Farmort",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/farmort.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/daemon.png"
+        "name": "Farmort",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/farmort.png",
+        "lore": ""
       }
     ]
   },
   {
-    "fraction" : "Cüceler",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/dwarfsF.png",
-    "lords" : [
+    "fraction": "Cüceler",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/dwarfsF.png",
+    "lords": [
       {
-        "name" : "Malakai Makaisson",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/malakai.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/dwarf.png"
+        "name": "Malakai Makaisson",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/malakai.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "İmparatorluk",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/empireF.png",
-    "lords" : [
+  {
+    "fraction": "İmparatorluk",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/empireF.png",
+    "lords": [
       {
-        "name" : "Elspeth von Draken",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/elspeth.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/empire.png"
+        "name": "Elspeth von Draken",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/elspeth.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Büyük Cathay",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/cathayF.png",
-    "lords" : [
+  {
+    "fraction": "Büyük Cathay",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/cathayF.png",
+    "lords": [
       {
-        "name" : "Miao Ying, Fırtına Ejderha",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/miaoying.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/cathay_bir.png"
+        "name": "Miao Ying, Fırtına Ejderha",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/miaoying.png",
+        "lore": ""
       },
-	{
-        "name" : "Zhao Ming, Demir Ejderha",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/zhaoming.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/cathay_iki.png"
+      {
+        "name": "Zhao Ming, Demir Ejderha",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/zhaoming.png",
+        "lore": ""
       },
-	{
-        "name" : "Yuan Bo, Yeşim Ejderha",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/yuanbo.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/cathay_uc.png"
+      {
+        "name": "Yuan Bo, Yeşim Ejderha",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/yuanbo.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Khorne",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/khorneF.png",	 
-    "lords" : [
+  {
+    "fraction": "Khorne",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/khorneF.png",
+    "lords": [
       {
-        "name" : "Skarbrand",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/skarbrand.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/khorne.png"
+        "name": "Skarbrand",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/skarbrand.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Kislev",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/kislevF.png",	 
-    "lords" : [
+  {
+    "fraction": "Kislev",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/kislevF.png",
+    "lords": [
       {
-        "name" : "Çariçe Katarin",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/katarin.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kislev_bir.png"
+        "name": "Çariçe Katarin",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/katarin.png",
+        "lore": ""
       },
-	{
-        "name" : "Kostatlyn",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kostatlyn.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kislev_iki.png"
+      {
+        "name": "Kostatlyn",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kostatlyn.png",
+        "lore": ""
       },
-	{
-        "name" : "Boris Ursus",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/boris.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kislev_uc.png"
+      {
+        "name": "Boris Ursus",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/boris.png",
+        "lore": ""
       },
-	{
-        "name" : "Ostankya Ana",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/ostankya.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kislev_dort.png"
+      {
+        "name": "Ostankya Ana",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/ostankya.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Nurgle",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/nurgleF.png",	 
-    "lords" : [
+  {
+    "fraction": "Nurgle",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/nurgleF.png",
+    "lords": [
       {
-        "name" : "Veba Baba Ku'gath",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kugath.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/nurgle_bir.png"
+        "name": "Veba Baba Ku'gath",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kugath.png",
+        "lore": ""
       },
-	{
-        "name" : "Larva Lordu Tamurkhan",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/tamurkhan.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/nurgle_iki.png"
+      {
+        "name": "Larva Lordu Tamurkhan",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/tamurkhan.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Ogre Krallıkları",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/ogresF.png",	 
-    "lords" : [
+  {
+    "fraction": "Ogre Krallıkları",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/ogresF.png",
+    "lords": [
       {
-        "name" : "Greasus Altındiş",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/greasus.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/ogre_bir.png"
+        "name": "Greasus Altındiş",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/greasus.png",
+        "lore": ""
       },
-	{
-        "name" : "Cani Skrag",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/skrag.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/ogre_iki.png"
+      {
+        "name": "Cani Skrag",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/skrag.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Slaanesh",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/slaaneshF.png",	 
-    "lords" : [
+  {
+    "fraction": "Slaanesh",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/slaaneshF.png",
+    "lords": [
       {
-        "name" : "N'kari",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/nkari.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/slaanesh.png"
+        "name": "N'kari",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/nkari.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Tzeentch",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/tzeentchF.png",	 
-    "lords" : [
+  {
+    "fraction": "Tzeentch",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/tzeentchF.png",
+    "lords": [
       {
-        "name" : "Kairos Kaderören",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kairos.png",
-	"loreImage : ":"https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/tzeentch_bir.png"
+        "name": "Kairos Kaderören",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/kairos.png",
+        "lore": ""
       },
-	{
-        "name" : "Değişimci",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/degisimci.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/tzeentch_iki.png"
+      {
+        "name": "Değişimci",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/degisimci.png",
+        "lore": ""
       }
     ]
   },
- {
-    "fraction" : "Kaos Savaşçıları",
-    "flag" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosWarriorF.png",
-    "lords" : [
+  {
+    "fraction": "Kaos Savaşçıları",
+    "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosWarriorF.png",
+    "lords": [
       {
-        "name" : "Azazel",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/azazel.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/chaos_bir.png"
+        "name": "Azazel",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/azazel.png",
+        "lore": ""
       },
-	{
-        "name" : "Festus Tufeylibeyi",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/festus.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/chaos_iki.png"
-       },
-	{
-        "name" : "Valkia Kanlı",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/valkia.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/chaos_uc.png"
+      {
+        "name": "Festus Tufeylibeyi",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/festus.png",
+        "lore": ""
       },
-	{
-        "name" : "Vilitch Lanet Evladı",
-        "image" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/vilitch.png",
-	"loreImage" : "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/chaos_dort.png"
+      {
+        "name": "Valkia Kanlı",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/valkia.png",
+        "lore": ""
+      },
+      {
+        "name": "Vilitch Lanet Evladı",
+        "image": "https://raw.githubusercontent.com/klkskerem/json-data-repo/f9002cd09631c934a07b828babc9aaa7b2471799/vilitch.png",
+        "lore": ""
       }
     ]
   }
