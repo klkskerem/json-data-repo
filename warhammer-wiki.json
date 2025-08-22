@@ -2,6 +2,7 @@
   {
     "fraction": "Kaos Cüceleri",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosDwarfsF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Astragoth Demirel",
@@ -23,6 +24,7 @@
   {
     "fraction": "Kaos İblisleri",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosDemonsF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Farmort",
@@ -34,6 +36,7 @@
   {
     "fraction": "Cüceler",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/dwarfsF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Malakai Makaisson",
@@ -45,6 +48,7 @@
   {
     "fraction": "İmparatorluk",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/empireF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Elspeth von Draken",
@@ -56,6 +60,7 @@
   {
     "fraction": "Büyük Cathay",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/cathayF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Miao Ying, Fırtına Ejderha",
@@ -77,6 +82,7 @@
   {
     "fraction": "Khorne",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/khorneF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Skarbrand",
@@ -88,6 +94,7 @@
   {
     "fraction": "Kislev",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/kislevF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Çariçe Katarin",
@@ -114,6 +121,7 @@
   {
     "fraction": "Nurgle",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/nurgleF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Veba Baba Ku'gath",
@@ -130,6 +138,7 @@
   {
     "fraction": "Ogre Krallıkları",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/ogresF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Greasus Altındiş",
@@ -146,6 +155,7 @@
   {
     "fraction": "Slaanesh",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/slaaneshF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "N'kari",
@@ -157,6 +167,7 @@
   {
     "fraction": "Tzeentch",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/tzeentchF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Kairos Kaderören",
@@ -173,6 +184,7 @@
   {
     "fraction": "Kaos Savaşçıları",
     "flag": "https://raw.githubusercontent.com/klkskerem/json-data-repo/fea38a7703604c4479b8a08b3b8fc82f234c0853/chaosWarriorF.png",
+    "fractionLore": "",
     "lords": [
       {
         "name": "Azazel",
